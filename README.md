@@ -1,6 +1,3 @@
-Here's a **README** file for your project:  
-
----
 
 ### **Automating Google Analytics Data Integration for Web Performance Analysis**  
 
